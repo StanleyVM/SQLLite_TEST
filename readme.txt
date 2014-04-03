@@ -1,0 +1,3 @@
+
+SQLite is a software library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine. SQLite is the most widely deployed SQL database engine in the world. The source code for SQLite is in the public domain. Sqlite can be used in iOS for handling data. It just uses the sqlite queries which make it easier for those who know sql.
+In this project we can add name and age of a person to sqlite database. If we restart the application we can see those saved names with age. If you want to delete some entrys from database you just click on "Delete"  button and delete person(s).
